@@ -9,9 +9,10 @@
         <option value="$PROJECT_DIR$/be/user-service/pom.xml" />
         <option value="$PROJECT_DIR$/activity-service/pom.xml" />
         <option value="$PROJECT_DIR$/be/activity-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../be/fitness-ai-app/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/be/eureka-server/pom.xml" />
       </list>
     </option>
-    <option name="workspaceImportForciblyTurnedOn" value="true" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="openjdk-21" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
